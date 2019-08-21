@@ -1,0 +1,14 @@
+<view class='my_title'>
+<navigator class='logo'>
+<image class='logo_img' src="/icons/timg.jpg"></image>
+</navigator>
+<view class='search_icon'> 
+<image class='logo_img' src="/icons/timg.jpg"></image>
+</view>
+<view class='user_icon'> 
+<image class='logo_img' src="/icons/timg.jpg"></image>
+</view>
+<view class='download'> 
+download
+</view>
+</view>  
